@@ -1,0 +1,11 @@
+{
+  "name": "iabackend",
+  "version": "0.0.1",
+  "description": "is a Node.js backend built with Express that serves as an API layer between a frontend application and a local AI model running on Ollama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
